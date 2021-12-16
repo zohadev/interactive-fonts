@@ -1,0 +1,30 @@
+@font-face {
+    font-family: cargo;
+    src: url('./fonts/8TH CARGO.TTF');
+}
+@font-face {
+    font-family: bigMacca;
+    src: url('./fonts/BIGMACCA.TTF');
+}
+@font-face {
+    font-family: brainStorm;
+    src: url('./fonts/BRAINSTORM.OTF');
+}
+@font-face {
+    font-family: goBold;
+    src: url('./fonts/GOBOLD LIGHT.OTF');
+}
+
+
+.font-cargo{
+    font-family: cargo;
+}
+.font-bigMacca{
+    font-family: bigMacca;
+}
+.font-brainStorm{
+    font-family: brainStorm;
+}
+.font-goBold{
+    font-family: goBold;
+}
